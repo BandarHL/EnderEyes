@@ -10,7 +10,7 @@
 | <img src="modImages/1.png"> | <img src="modImages/2.png"> | <img src="modImages/3.png"> |
 
 # Download
-- EnderEyes mod is available in [CurseForge]()
+- EnderEyes mod is available in [CurseForge](https://www.curseforge.com/minecraft/mc-mods/endereyes)
 
 ## License
 This mod is available under the [GPLv3](LICENSE).
