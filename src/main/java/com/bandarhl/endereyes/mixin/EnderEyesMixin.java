@@ -33,7 +33,6 @@ public abstract class EnderEyesMixin extends HostileEntity {
 
 	@Inject(at = @At("RETURN"), method = "isPlayerStaring", cancellable = true)
 	void isPlayerStaring(PlayerEntity player, CallbackInfoReturnable<Boolean> cir) {
-		EnderEyes.LOGGER.info(String.valueOf(this.getTarget()));
 		if (EnderEyes.hasEnderEyesEnchantment(player.getInventory().getArmorStack(3)) && !this.isAngry()) {
 			this.setTarget(null);
 			this.setAngryAt(null);
