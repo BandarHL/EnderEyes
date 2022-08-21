@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.bandarhl.endereyes.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "EnderEyesMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
