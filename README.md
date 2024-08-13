@@ -3,7 +3,7 @@
     > EnderEyes enchantment only applied to helmets.
 
 # How to get the enchantment?
-- EnderEyes is a treasure enchantment, because of that it can be only obtained from jungle temple and stronghold chest loot, fishing, raid drops, or trading with a librarian of any level.
+EnderEyes is a treasure enchantment. The enchantment can be obtained from jungle temples, stronghold chest loot, by fishing, from raid drops, and by trading with a librarian of any level.
 
 |                             |                             |                             |
 |:---------------------------:|:---------------------------:|:---------------------------:|
